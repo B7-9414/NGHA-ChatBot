@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+*.sqlite3
+
+# Ollama cache (if used)
+ollama/
+
+# Chroma vector DB persisted data
+data/chroma/
+
+# Uploaded files
+data/uploads/
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Python cache
+*.egg-info/
+dist/
+build/
+
+# Test outputs
+htmlcov/
+coverage.xml
+.pytest_cache/
+
+# __init__.py compiled
+*.pyo

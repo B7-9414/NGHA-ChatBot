@@ -1,0 +1,13 @@
+streamlit==1.36.0
+langchain==0.2.11
+langchain-core==0.2.36
+langchain-community==0.2.10
+langchain-openai==0.1.22
+langchain-chroma==0.1.2
+langchain-ollama==0.1.1
+chromadb==0.5.4
+openai==1.40.2
+pdfplumber==0.11.4
+python-docx==0.8.11
+python-dotenv==1.0.1
+tqdm==4.66.4
