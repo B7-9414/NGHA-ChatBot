@@ -27,10 +27,10 @@ Thumbs.db
 ollama/
 
 # Chroma vector DB persisted data
-data/chroma/
+# data/chroma/
 
 # Uploaded files
-data/uploads/
+# data/uploads/
 
 # Streamlit
 .streamlit/config.toml
